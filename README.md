@@ -53,3 +53,8 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=youngancient&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngancient)](https://github.com/anuraghazra/github-readme-stats)
+
+--- 
+<div align="center">
+  <img src="https://cdn.cs50.net/2016/fall/video_projects/staff_gifs/harvard/gifs/Brian-Yu.gif">
+</div>
