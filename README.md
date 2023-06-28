@@ -12,7 +12,7 @@
 <a href="linkedin.com/in/jude-tochy-922492227//"><img src="images/linkedin.png" width="60" /></a>
 <a href="https://twitter.com/judetochyx"><img src="images/twitter.png" width="60" /></a>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="350" src="dev.gif"/>
 
 #### About
 Here are some basic things to know about YoungAncient 😎;
@@ -56,7 +56,7 @@ Here are some basic things to know about YoungAncient 😎;
        
 #### Lifestyle
 <!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
-<img align="center" alt="Coding" width="800s" src="images/bring-deals.JPG"/>
+<img align="center" alt="Coding" width="800s" src="woman-coding.gif"/>
 
 
 
