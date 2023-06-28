@@ -15,7 +15,7 @@
 <img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 #### About
-Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
+Here are some basic things to know about YoungAncient 😎;
 
 - 🔭 I’m currently working on acquiring DSA skills,
 - 🌱 I’m currently exploring Fullstack Web Development, Web3 technologies and Open source,
@@ -35,6 +35,8 @@ Here are some basic things to know about ALIPHATIC 👽👳🏾‍♂️;
 
 #### Frameworks/Libraries I Use
 <code><img src="images/react.png" width="80" title="React" /></code>
+<code><img src="images/next.webp" width="80" title="Next" /></code>
+<code><img src="images/styledcomp.png" width="80" title="React" /></code>
 <code><img src="images/api.jpg" width="70" title="API" /></code>
 <code><img src="images/json.png" width="70" title="JSON" /></code>
 <code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
