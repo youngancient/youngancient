@@ -6,7 +6,7 @@
 <h1>Welcome To YoungAncient's Profile😎</h1>
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Community Manager | Product Manager } 
+       { softWare Engineer | Community Manager } 
 
 #### Connect with me 
 <a href="linkedin.com/in/jude-tochy-922492227//"><img src="images/linkedin.png" width="60" /></a>
