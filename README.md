@@ -24,7 +24,7 @@ Here are some basic things to know about YoungAncient 😎;
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: Email: judetochyokoye@gmail.com.
 - 😄 Pronouns: He/Him/His,
-- ⚡ Fun fact: I love Reading🎮.
+- ⚡ Fun fact: I love Reading articles📖 and writing ✍.
 
 #### My Core Languages
 <code><img src="images/html.jpg" width="60" title="HTML" /></code>
