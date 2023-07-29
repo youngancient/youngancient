@@ -17,11 +17,8 @@
 #### About
 Here are some basic things to know about YoungAncient 😎;
 
-- 🔭 I’m currently working on acquiring DSA skills,
-- 🌱 I’m currently exploring Fullstack Web Development, Web3 technologies and Open source,
-- 👯 I’m looking for people to contribute to my projects.
-- 🤔 I’m looking for help with expanding my community,
-- 💬 Ask me about anything🌚,
+- 🔭 I’m currently working majorly with Javascript and Typescript,
+- 🌱 I’m currently exploring Frontend Web development, Mobile App development, Web3 technologies and Open source,
 - 📫 How to reach me: Email: judetochyokoye@gmail.com.
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Reading articles📖 and writing ✍.
