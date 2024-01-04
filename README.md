@@ -49,8 +49,6 @@ Here are some basic things to know about YoungAncient 😎;
 <code><img src="images/postman.png" width="60" title="Postman API" /></code>
 <code><img src="images/figma.jpeg" width="60" title="Figma" /></code>
              
-### Stats
-[![youngancient's GitHub | Stats](https://stats.quine.sh/youngancient/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=youngancient)
        
 #### Lifestyle
 <!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
