@@ -6,7 +6,7 @@
 <h1>Welcome To YoungAncient's Profile😎</h1>
 
 ###   **What's my current role in tech?** </h2>
-       { softWare Engineer | Community Manager } 
+       { Web3 Engineer | Smart contract dev } 
 
 #### Connect with me 
 <a href="linkedin.com/in/jude-tochy-922492227//"><img src="images/linkedin.png" width="60" /></a>
@@ -17,8 +17,8 @@
 #### About
 Here are some basic things to know about YoungAncient 😎;
 
-- 🔭 I’m currently working majorly with Javascript and Typescript,
-- 🌱 I’m currently exploring Frontend Web development, Mobile App development, Web3 technologies and Open source,
+- 🔭 I’m currently working majorly with Solidity, Ethers, Javascript and Typescript,
+- 🌱 I’m currently exploring Open source, ZK protocols,and Formal verification.
 - 📫 How to reach me: Email: judetochyokoye@gmail.com.
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Reading articles📖 and writing ✍.
