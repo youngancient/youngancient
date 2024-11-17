@@ -24,11 +24,10 @@ Here are some basic things to know about YoungAncient 😎;
 - ⚡ Fun fact: I love Reading articles📖 and writing ✍.
 
 #### My Core Languages
-<code><img src="images/html.jpg" width="60" title="HTML" /></code>
-<code><img src="images/css.jpg" width="60" title="CSS" /></code>
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
+
 
 #### Frameworks/Libraries I Use
 <code><img src="images/react.png" width="80" title="React" /></code>
