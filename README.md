@@ -1,6 +1,6 @@
 <h1>Hello World 👋🏾</h1>
 
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="linkedin.com/in/jude-tochy-922492227//"> Okoye Jude Tochukwu</a></div>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="fuad-ajibola-5a0034166" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jude-tochy-922492227/" target="_blank"> Okoye Jude Tochukwu</a></div>
 
     
 <h1>Welcome To YoungAncient's Profile😎</h1>
@@ -17,8 +17,8 @@
 #### About
 Here are some basic things to know about YoungAncient 😎;
 
-- 🔭 I’m currently working majorly with Solidity, Ethers, Javascript and Typescript,
-- 🌱 I’m currently exploring Open source, ZK protocols,and Formal verification.
+- 🔭 I’m currently working majorly with Solidity, Ethers, Javascript, and Typescript,
+- 🌱 I’m exploring Rust, Open source, ZK protocols, and Formal verification.
 - 📫 How to reach me: Email: judetochyokoye@gmail.com.
 - 😄 Pronouns: He/Him/His,
 - ⚡ Fun fact: I love Reading articles📖 and writing ✍.
@@ -27,6 +27,7 @@ Here are some basic things to know about YoungAncient 😎;
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
+
 
 
 #### Frameworks/Libraries I Use
