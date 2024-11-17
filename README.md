@@ -27,6 +27,7 @@ Here are some basic things to know about YoungAncient 😎;
 <code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
 <code><img src="images/typescript.png" width="60" title="TypeScript" /></code>
 <code><img src="images/python.png" width="60" title="Python" /></code>
+<code><img src="images/solidity.svg" width="60" title="Python" /></code>
 
 
 
